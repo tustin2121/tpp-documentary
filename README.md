@@ -18,6 +18,10 @@ Start9: The Story of TwitchPlaysPokemon
 - Since there will likely be lots of lore and/or art used, be sure to credit everyone's work in the top corner of the screen every time anything is shown.
 
 
+## Resources
+- The TPP Streamdocs repo: https://github.com/TwitchPlaysPokemon/tpp-streamdocs
+  - It specifically has [a zip file full of the original red save states](https://github.com/TwitchPlaysPokemon/tpp-streamdocs/tree/master/saves/S01/R01%20Red).
+
 ## Credits
 Tustin2121 - ???
 
