@@ -1,23 +1,26 @@
 {
-	// Version of the setting file.  Always 0.1
+    // Version of the setting file.  Always 0.1
     "version": "0.1",
     // language - current active spelling language
-	"language": "en",
-	"maxNumberOfProblems": 1000,
+    "language": "en",
+    "maxNumberOfProblems": 1000,
     // words - list of words to be always considered correct
-	"words": [
-		"subreddit",
-		"pokemon"
-	],
-	"enabledLanguageIds": [
-		"plaintext",
-		"text",
-		"fountain"
-	],
-	// flagWords - list of words to be always considered incorrect
+    "words": [
+        "subreddit",
+        "pokemon"
+    ],
+    "enabledLanguageIds": [
+        "plaintext",
+        "text",
+        "fountain"
+    ],
+    // flagWords - list of words to be always considered incorrect
     // This is useful for offensive words and common spelling errors.
     // For example "hte" should be "the"
     "flagWords": [
         "hte"
+    ],
+    "enableFiletypes": [
+        "fountain"
     ]
 }
