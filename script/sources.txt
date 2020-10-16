@@ -1,0 +1,16 @@
+[[???]] : To-Be-Cited
+
+[[AMA]] : research/StreamerAMA.mhtml 
+	- Accessed 2020/10/15 from https://www.reddit.com/r/IAmA/comments/2vow6x/i_am_the_creator_of_twitch_plays_pokemon_ama/
+
+[[LDT]] : research/Lost_Days_Timeline.pdf
+	- Compiled 2016/02/02 by jimmyg_123, with help from davidjl123.
+	- Accessed 2020/10/14 from Developer Discord, provided by m4_used_rollout.
+	- Original source https://www.reddit.com/r/twitchplayspokemon/comments/44e5rm/tpp_red_lost_days_timeline_and_media_download/
+
+[[SF1]] : stream-footage/1ae_approx_16h_48m_Pidgey_against_Zubat_in_Mt._Moon_with_Twitch_chat_54_viewers.png
+	- Accessed 2020/10/14 from Developer Discord, provided by m4_used_rollout.
+[[SF2]] : stream-footage/1d_7h_4m_44s_Route_3_ledges_witch_Twitch_chat_1732_viewers.jpg
+	- Accessed 2020/10/14 from Developer Discord, provided by m4_used_rollout.
+
+
